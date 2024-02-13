@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_Speech_Recognition_Api/static/css/main.2a564395.css",
+    "main.js": "/React_Speech_Recognition_Api/static/js/main.2dae8093.js",
+    "static/js/592.1e71f1f1.chunk.js": "/React_Speech_Recognition_Api/static/js/592.1e71f1f1.chunk.js",
+    "index.html": "/React_Speech_Recognition_Api/index.html",
+    "main.2a564395.css.map": "/React_Speech_Recognition_Api/static/css/main.2a564395.css.map",
+    "main.2dae8093.js.map": "/React_Speech_Recognition_Api/static/js/main.2dae8093.js.map",
+    "592.1e71f1f1.chunk.js.map": "/React_Speech_Recognition_Api/static/js/592.1e71f1f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a564395.css",
+    "static/js/main.2dae8093.js"
+  ]
+}
